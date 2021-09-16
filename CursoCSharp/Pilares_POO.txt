@@ -1,0 +1,11 @@
+﻿abstração:
+	id, atrib, complementos
+herança:
+	utilizada para reuso de código
+D.R.Y --> don't repeat yourself
+
+DICA para saber se é herança:
+	___ é um(a) _______
+
+DICA para saber se é composição:
+	_____ tem um(a) _______
